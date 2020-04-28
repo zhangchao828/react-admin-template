@@ -4,7 +4,7 @@
     "build ": "react-admin build"
   },
   "devDependencies": {
-    "react-admin-core": "0.3.2"
+    "react-admin-core": "0.3.3"
   },
   "dependencies": {
     "core-js": "^3.6.5"
