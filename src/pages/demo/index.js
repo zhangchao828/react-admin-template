@@ -5,10 +5,10 @@ export default class extends Component {
   render() {
     return (
       <div>
-        <h1>index页面ss</h1>
-        <Link to={'/test'}> test </Link>
+        <h1>demo页面</h1>
+        <Link to={'/index'}> index </Link>
         {` `}
-        <Link to={'/demo'}> demo </Link>
+        <Link to={'/test'}> test </Link>
       </div>
     )
   }

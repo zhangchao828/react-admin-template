@@ -1,13 +1,14 @@
 {
   "scripts": {
     "start": "react-admin start",
-    "build ": "react-admin build"
+    "build": "react-admin build"
   },
   "devDependencies": {
     "react-admin-core": "0.3.3"
   },
   "dependencies": {
-    "core-js": "^3.6.5"
+    "core-js": "^3.6.5",
+    "core-share": "^0.2.2"
   },
   "prettier": {
     "semi": false,
